@@ -1,0 +1,4 @@
+/* Hide follower count */
+body > div.logged-in.env-production.page-responsive.page-profile > div.application-main > main > div > div > div.Layout-sidebar > div > div > div.d-flex.flex-column {
+  display: none!important;
+}
