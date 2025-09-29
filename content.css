@@ -7,3 +7,7 @@ body > div.logged-in.env-production.page-responsive.page-profile > div.applicati
 #user-profile-frame > div > div:nth-child(2) {
   display: none!important;
 }
+
+#AppHeader-notifications-button {
+  display: none!important;
+}
